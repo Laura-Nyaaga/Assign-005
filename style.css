@@ -11,7 +11,7 @@ h1{
    margin: auto;
 }
 #photo{
-width: 50%;
+width: 70%;
 height: 80%;
 position: absolute;
 
@@ -20,13 +20,13 @@ position: absolute;
 border: solid 1px;
 margin-right: 100%;
 border-radius: 20px;
-padding-bottom: 53.5%;
+padding-bottom: 30%;
 background-color: aqua;
 
 
 }
 .form{
-margin-left: 60%;
+margin-left: 50%;
 border: solid 5px;
 position: relative;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 }
