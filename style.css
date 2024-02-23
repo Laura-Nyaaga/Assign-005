@@ -17,16 +17,17 @@ position: absolute;
 
 }
 #image{
-border: solid 1px;
+border: solid 2px;
 margin-right: 100%;
 border-radius: 20px;
-padding-bottom: 30%;
+padding-bottom: 43%;
 background-color: aqua;
+border-color: blueviolet;
 
 
 }
 .form{
-margin-left: 50%;
+margin-left: 63.2%;
 border: solid 5px;
 position: relative;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 }
